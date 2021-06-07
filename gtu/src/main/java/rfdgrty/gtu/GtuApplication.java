@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GtuApplication {
 
 	public static void main(String[] args) {
+		System.out.print("testing git branches");
 		SpringApplication.run(GtuApplication.class, args);
 	}
 
